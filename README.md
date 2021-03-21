@@ -1,1 +1,3 @@
-# ecole-project
+# maven-project
+
+Simple Maven Project
